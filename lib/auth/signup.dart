@@ -179,7 +179,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                         child: commonText(
                           "Sign In",
                           size: 14.0,
-                          color: AppColors.berry,
+                          color: AppColors.black,
                           isBold: true,
                         ),
                       ),

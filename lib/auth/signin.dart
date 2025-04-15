@@ -182,7 +182,7 @@ class _SignInScreenState extends State<SignInScreen> {
                         child: commonText(
                           "Sign Up",
                           size: 12.0,
-                          color: AppColors.berry,
+                          color: AppColors.black,
                           isBold: true,
                         ),
                       ),
